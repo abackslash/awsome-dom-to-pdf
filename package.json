@@ -1,5 +1,5 @@
 {
-  "name": "dom-to-pdf",
+  "name": "awsome-dom-to-pdf",
   "version": "0.3.2",
   "description": "Generates a printable paginated pdf from DOM node using HTML5 canvas and svg.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ovvn/dom-to-pdf"
+    "url": "https://github.com/abackslash/awsome-dom-to-pdf"
   },
   "dependencies": {
     "@zhiyuc123/dom-to-image": "^2.6.0",
@@ -27,13 +27,13 @@
     "page-break"
   ],
   "author": {
-    "name": "Osman Mazinov",
-    "email": "omazinov@gmail.com",
-    "url": "https://ovvn.github.io"
+    "name": "Deng",
+    "email": "dll1885@icloud.com",
+    "url": "https://abackslash.github.io"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ovvn/dom-to-pdf/issues"
+    "url": "https://github.com/abackslash/awsome-dom-to-pdf/issues"
   },
-  "homepage": "https://github.com/ovvn/dom-to-pdf#readme"
+  "homepage": "https://github.com/abackslash/awsome-dom-to-pdf#readme"
 }
